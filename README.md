@@ -1,5 +1,10 @@
 ![cover](./pictures/cover.png)
 
+
+[(th) read blog](https://blog.nextzy.me/stetho-debugging-tools-95780f3c194)
+
+(en) read blog
+
 # Setup
 
 ```
