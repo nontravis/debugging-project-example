@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Debug Series</string>
+
+    <string name="setting_1">setting_1</string>
+    <string name="setting_2">setting_2</string>
+    <string name="setting_3">setting_3</string>
+</resources>
